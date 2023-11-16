@@ -14,4 +14,4 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 
 I Hope You Enjoy My Portfolio
 
-https://media.giphy.com/media/cSiauzNn8OBLGq7Y1C/giphy.gif
+![](https://media.giphy.com/media/cSiauzNn8OBLGq7Y1C/giphy.gif)

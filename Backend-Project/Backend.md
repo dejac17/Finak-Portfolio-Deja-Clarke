@@ -49,7 +49,7 @@
 Can Implement authentication and authorization to an API
 
 - Built an api and added authorization for logged in users using an /authorized endpoint. Also added authorization where only the admin user "Spongebob" could give users access to the api.
-- This allowed be to learn more about how to create secure sign in pages, while also learning about jwt and OAuth
+- This allowed be to learn more about how to create secure sign in pages, while also learning about jwt and OAuth. Now I have a better understanding of how authentication works, and can implement it in my projects moving forward.
 
 ### JF 6.5
 

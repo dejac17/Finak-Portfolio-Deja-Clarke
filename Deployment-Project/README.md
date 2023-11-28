@@ -1,4 +1,4 @@
-## Project #3
+## Project #2: Spoonful
 
 - The users of this application would be anyone who loves food! Thiis application allows foodies to view food recipes on a blog, and also create their own posts.
 - What inspired our team to make this application was that we all love food, and learning new recipes. The most important feature is that users are allowed to create their own posts

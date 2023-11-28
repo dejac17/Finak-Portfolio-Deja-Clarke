@@ -1,0 +1,9 @@
+[submodule "Backend-Project/spongebob-recipe"]
+	path = Backend-Project/spongebob-recipe
+	url = https://github.com/Group-3-Backend-Project/spongebob-recipe-book.git
+[submodule "Backend-Project-Recipe"]
+	path = Backend-Project-Recipe
+	url = https://github.com/Group-3-Backend-Project/spongebob-recipe-book.git
+[submodule "Backend-Project/spongebob"]
+	path = Backend-Project/spongebob
+	url = https://github.com/Group-3-Backend-Project/spongebob-recipe-book.git

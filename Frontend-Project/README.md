@@ -1,4 +1,4 @@
-# Project #3: Popcorn Watch
+# Project #3:Popcorn Watch
 
 ## High-level Project Overview
 

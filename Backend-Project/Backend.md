@@ -1,4 +1,4 @@
-# Project #1: Spongebob Recipe Book
+# Project #1: Recipe Book
 
 ## High-level Project Overview
 

@@ -7,3 +7,12 @@
 [submodule "Backend-Project/spongebob"]
 	path = Backend-Project/spongebob
 	url = https://github.com/Group-3-Backend-Project/spongebob-recipe-book.git
+[submodule "Deployment-Project/spoonful"]
+	path = Deployment-Project/spoonful
+	url = https://github.com/the-spoonful-blog/spoonful-fullstack.git
+[submodule "Frontend-Project/popcornwatch"]
+	path = Frontend-Project/popcornwatch
+	url = https://github.com/FrontEnd-Group-Project/PopcornWatch.git
+[submodule "Inventory-App/inventory"]
+	path = Inventory-App/inventory
+	url = https://github.com/DDHM-Group-Project/inventory-app.git

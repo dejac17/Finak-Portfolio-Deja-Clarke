@@ -46,20 +46,14 @@
 
 ### JF 3.7
 
-Can Implement authen tication and authorization to an API
+Can Implement authentication and authorization to an API
 
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
+- Built an api and added authorization for logged in users using an /authorized endpoint. Also added authorization where only the admin user "Spongebob" could give users access to the api.
+- This allowed be to learn more about how to create secure sign in pages, while also learning about jwt and OAuth
 
 ### JF 6.5
 
 Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
 
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
+- I worked in a group of four, collaborating on various parts of this project. We created a board to manage our project tiers, and assigned each member of our team different tickets for this project.
+- I worked together with my team to solve any technical issues that we encountered. This helped me get real world experience working in a collaborative environment on a team.

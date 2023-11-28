@@ -1,4 +1,4 @@
-# Project #4: Inventory App
+# Project #4:Inventory App
 
 ## High-level Project Overview
 
